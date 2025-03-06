@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ana!;I'm+a+Web+Developer...;And+I'm+a+from+Venezuela)](https://git.io/typing-svg)
+
+<!-- ################################################# -->
+
 - 👋 Hi, I’m @AnahDev
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning MERN stack
@@ -40,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+</p>
 
 <!-- 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
@@ -74,7 +79,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 
   -->    
-</p>  
+
 
 <!--##################################################################
 #######################################################################-->
