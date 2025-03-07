@@ -1,4 +1,4 @@
-<p aling="center" > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ana!;I'm+Web+Developer...;And+I'm+from+Venezuela)](https://git.io/typing-svg) </p>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ana!;I'm+Web+Developer...;And+I'm+from+Venezuela)](https://git.io/typing-svg) 
 
 <!--
 <h1 align="center">Hi 👋, I'm Ana</h1>
